@@ -1,2 +1,1 @@
-#My App
-This is an app sample tutorial
+#This is an app sample tutorial
